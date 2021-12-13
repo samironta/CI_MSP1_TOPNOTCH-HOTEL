@@ -2,9 +2,17 @@ body {
     padding-top: 75px;
 }
 
-/* ----- homepage(about)--*/
+.contact-button {
+    padding: 0;
+    margin-bottom: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+/* ----- homepage(about-us, services, find-us)--*/
 .about {
     padding-top: 10rem;
+    padding-bottom: 10rem;
 }
 
 .img-rows {
@@ -19,5 +27,16 @@ hr {
     border-top: 5px solid #FF8C00;
     width: 50%;
     margin-left: 25%;
+
+}
+
+.find {
+
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
 
 }

@@ -76,6 +76,12 @@ HTML5, CSS3, BOOTSTRAP5, JAVASCRIPT, FONT AWESOME, POPPER JS, GITHUB, GITPOD,
 
 ---
 
+## CODE CREDITS
+
+Code for embeded google map obtined as is from Google Maps
+
+---
+
 ## MEDIA CREDITS
 Logo was created using free templates from canva.com
 Most icons were from Font Awesome except for a couple from Google Icons 
