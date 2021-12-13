@@ -23,6 +23,11 @@ body {
 
 }
 
+.services-text {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
 hr {
     border-top: 5px solid #FF8C00;
     width: 50%;
