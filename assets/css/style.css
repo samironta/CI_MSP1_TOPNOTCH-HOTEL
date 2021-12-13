@@ -45,3 +45,11 @@ hr {
     overflow: hidden;
 
 }
+
+/* ----- rooms page(about-us, services, find-us)--*/
+#room-image {
+
+    height: 100%;
+    width: 100%;
+    padding: 0;
+}
