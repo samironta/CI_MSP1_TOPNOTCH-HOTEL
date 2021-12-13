@@ -46,10 +46,39 @@ hr {
 
 }
 
-/* ----- rooms page(about-us, services, find-us)--*/
+/* ----- rooms page(room-features, room-types, standard, family, deluxe)--*/
 #room-image {
 
     height: 100%;
     width: 100%;
     padding: 0;
+}
+
+.room-features {
+    list-style-type: none;
+    line-height: 2;
+}
+
+.room-types {
+    height: 600px;
+}
+
+#standard-room {
+    border-radius: 15px 0 15px 0;
+    border: 2px solid orange;
+    color: orange;
+    padding-top: 10%;
+
+}
+
+#family-room {
+    border-radius: 15px 0 15px 0;
+    padding-top: 10%;
+    border: 2px solid black;
+}
+
+#deluxe-room {
+    border-radius: 15px 0 15px 0;
+    padding-top: 10%;
+    border: 2px solid black;
 }
