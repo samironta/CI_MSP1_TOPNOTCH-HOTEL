@@ -85,3 +85,11 @@ hr {
     border: 2px solid black;
     padding-bottom: 20px;
 }
+
+/* ----- hospitality page()--*/
+.card {
+    background: black;
+    border-radius: 10px;
+    border: 2px solid orange;
+    height: %;
+}
