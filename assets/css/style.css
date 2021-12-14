@@ -96,6 +96,15 @@ hr {
 
 /* ----- contact page()--*/
 
+#contact-section {
+
+    background: url("../../assets/lobby2.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 75%;
+
+}
+
 .contact {
     border: 5px solid orange;
     border-radius: 10px;
