@@ -65,11 +65,22 @@ Italiana paired with Roboto imported from [Google Fonts](https://fonts.google.co
 ## WIREFRAMES
 Initial wireframes were hand drawn then digitised using Balsamiq.
 
-![markdown logo](../docs/colors1.jpg)
+## INDEX.HTML(HOME)
 
-![markdown logo](../docs/colors1.jpg)
+![markdown logo](../docs/Home.png)
 
-![markdown logo](../docs/colors1.jpg)
+## ROOMS.HTML
+
+![markdown logo](../docs/Rooms.png)
+
+## HOSPITALITY.HTML
+
+![markdown logo](../docs/Hospitality.png)
+
+## CONTACT.HTML
+
+![markdown logo](../docs/Contact.png)
+
 
 ---
 
