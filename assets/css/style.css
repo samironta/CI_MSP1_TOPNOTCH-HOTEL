@@ -25,7 +25,7 @@ h6 {
     text-decoration: none;
 }
 
-/* ----- homepage(about-us, services, find-us)--*/
+/* ----------------------------- homepage(about-us, services, find-us)--*/
 .about {
     padding-top: 10rem;
     padding-bottom: 10rem;
@@ -102,7 +102,7 @@ hr {
     padding-bottom: 20px;
 }
 
-/* ----- hospitality page()--*/
+/* ------------------------------- hospitality page()--*/
 .card {
     background: black;
     border-radius: 10px;
@@ -110,7 +110,7 @@ hr {
 
 }
 
-/* ----- contact page()--*/
+/* -------------------------------- contact page()--*/
 
 #contact-section {
 
