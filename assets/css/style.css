@@ -123,3 +123,9 @@ hr {
     border: 5px dashed orange;
     border-radius: 5px;
 }
+
+#contact-button {
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 10px;
+}
