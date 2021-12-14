@@ -16,7 +16,7 @@ ___
 --- 
 ## BRIEF SITE DEMO
 
-![site demo](../docs/animation.gif)
+![site demo](../docs/animation1.gif)
 
 ---
 ## TYPICAL CUSTOMERS
@@ -57,7 +57,10 @@ Hence the choice of colour scheme, layout, and typography.
 
 ![markdown logo](../docs/colors2.jpg)
 
-Fonts 
+## Fonts: 
+
+Italiana paired with Roboto imported from [Google Fonts](https://fonts.google.com/)
+
 ---
 ## WIREFRAMES
 Initial wireframes were hand drawn then digitised using Balsamiq.
