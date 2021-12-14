@@ -105,6 +105,13 @@ hr {
 
 }
 
+#contact-line {
+    border-top: 5px solid black;
+    width: 50%;
+    margin-left: 25%;
+
+}
+
 .contact {
     border: 5px solid orange;
     border-radius: 10px;
