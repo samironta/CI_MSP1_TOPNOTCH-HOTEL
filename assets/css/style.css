@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Italiana&family=Roboto:wght@400;500&display=swap');
 
-
-
 body {
     padding-top: 75px;
     font-family: 'Roboto', sans-serif;
@@ -36,7 +34,6 @@ h6 {
     width: 100%;
     padding: 0;
     margin: 0;
-
 }
 
 .services-text {
@@ -48,7 +45,6 @@ hr {
     border-top: 5px solid #FF8C00;
     width: 50%;
     margin-left: 25%;
-
 }
 
 .find {
@@ -59,7 +55,6 @@ hr {
     margin-left: auto;
     margin-right: auto;
     overflow: hidden;
-
 }
 
 /* ----- rooms page(room-features, room-types, standard, family, deluxe)--*/
@@ -85,7 +80,6 @@ hr {
     color: orange;
     padding-top: 5%;
     padding-bottom: 20px;
-
 }
 
 #family-room {
@@ -107,7 +101,6 @@ hr {
     background: black;
     border-radius: 10px;
     border: 2px solid orange;
-
 }
 
 /* -------------------------------- contact page()--*/
@@ -118,14 +111,12 @@ hr {
     background-size: cover;
     background-position: center;
     height: 75%;
-
 }
 
 #contact-line {
     border-top: 10px dashed darkorange;
     width: 50%;
     margin-left: 25%;
-
 }
 
 .contact {
