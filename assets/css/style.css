@@ -57,6 +57,10 @@ hr {
     overflow: hidden;
 }
 
+iframe {
+    width: 100%;
+}
+
 /* ----- rooms page(room-features, room-types, standard, family, deluxe)--*/
 #room-image {
 
