@@ -86,29 +86,27 @@
                         method="post">
                         <div class="mb-3">
                             <label for="fname" class="form-label">First Name</label>
-                            <input type="text" class="form-control" id="fname" required aria-describedby="first name">
+                            <input type="text" class="form-control" id="fname" required aria-describedby="text">
 
                         </div>
                         <div class="mb-3">
                             <label for="lname" class="form-label">Last Name</label>
-                            <input type="text" class="form-control" id="lname" required aria-describedby="last name">
+                            <input type="text" class="form-control" id="lname" required aria-describedby="text">
 
                         </div>
                         <div class="mb-3">
                             <label for="email" class="form-label">Email Address</label>
-                            <input type="email" class="form-control" id="email" required
-                                aria-describedby="email address">
+                            <input type="email" class="form-control" id="email" required aria-describedby="emailHelp">
                             <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
                         </div>
                         <div class="mb-3">
                             <label for="phone" class="form-label">Phone Number</label>
-                            <input type="number" class="form-control" id="phone" required
-                                aria-describedby="phone number">
+                            <input type="number" class="form-control" id="phone" required aria-describedby="number">
 
                         </div>
                         <div class="mb-3">
                             <label for="reason" class="form-label">Reason for Getting in Touch</label>
-                            <select class="form-control form-select" id="reason" aria-describedby="reason for contact">
+                            <select class="form-control form-select" id="reason" aria-describedby="select">
                                 <option selected>Choose...</option>
                                 <option value="1">Book a Room</option>
                                 <option value="2">Book a Table</option>
@@ -121,10 +119,10 @@
                             <label for="comment" class="form-label">Comment</label>
                             <textarea class="form-control" id="comment" rows="5" cols="60"
                                 placeholder="please provide extra details" required
-                                aria-describedby="provide extra details"></textarea>
+                                aria-describedby="textarea"></textarea>
                         </div>
                         <div class="mb-3">
-                            <label for="preference" class="form-label">Contact Preference:</label>
+                            <label class="form-label">Contact Preference:</label>
                         </div>
                         <div class="form-check">
                             <input class="form-check-input" type="radio" name="preference" id="phone-option" required>
@@ -190,8 +188,8 @@
                         <div class="col-md-5 col-12">
                             <!-- Email input -->
                             <div class="form-outline form-white mb-4">
-                                <input type="email" id="email" class="form-control" required />
-                                <label class="form-label" for="email">Email address</label>
+                                <input type="email" id="news-email" class="form-control" required />
+                                <label class="form-label" for="news-email">Email address</label>
                             </div>
                         </div>
                         <!--Grid column-->
