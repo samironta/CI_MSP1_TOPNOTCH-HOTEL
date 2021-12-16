@@ -58,7 +58,7 @@ hr {
 }
 
 iframe {
-    width: 900px;
+    max-width: 900px;
     height: 100%;
 }
 
