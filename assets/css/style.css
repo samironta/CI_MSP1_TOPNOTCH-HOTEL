@@ -130,6 +130,7 @@ iframe {
 }
 
 #contact-form {
+    padding-left: 10px;
     margin-left: 12.5%;
     margin-bottom: 20px;
     border: 5px dashed orange;
