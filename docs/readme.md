@@ -167,6 +167,26 @@ CODE VALIDATION :
 
 * [HTML:](https://validator.w3.org/)
 
+	* ### RESULTS
+
+		* #### INDEX.HTML(HOME)
+
+			![markdown logo](../docs/index.JPG)
+
+		* #### ROOMS.HTML
+
+			![markdown logo](../docs/rooms.JPG)
+
+		* #### HOSPITALITY.HTML
+
+			![markdown logo](../docs/hospitality.JPG)
+
+		* #### CONTACT.HTML
+
+			![markdown logo](../docs/contact.JPG)
+
+---
+
 * [CSS:](https://jigsaw.w3.org/css-validator/)
 
 * [Accessibility:](https://wave.webaim.org/)
