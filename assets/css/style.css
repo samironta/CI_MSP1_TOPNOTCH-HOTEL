@@ -58,7 +58,8 @@ hr {
 }
 
 iframe {
-    width: 100%;
+    width: max-content;
+    height: 100%;
 }
 
 /* ----- rooms page(room-features, room-types, standard, family, deluxe)--*/
