@@ -189,6 +189,14 @@ CODE VALIDATION :
 
 * [CSS:](https://jigsaw.w3.org/css-validator/)
 
+	* ### RESULT
+
+		* #### STYLE.CSS
+
+			![markdown logo](../docs/css.JPG)
+
+---
+
 * [Accessibility:](https://wave.webaim.org/)
 
 * [Performance:](https://developers.google.com/web/tools/lighthouse)
