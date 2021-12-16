@@ -58,7 +58,11 @@ hr {
 }
 
 iframe {
+<<<<<<< HEAD
     width: max-content;
+=======
+    max-width: 900px;
+>>>>>>> parent of fd6e2d0 (iframe fixes)
     height: 100%;
 }
 
